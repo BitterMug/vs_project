@@ -1,4 +1,4 @@
-"""Execute main"""
+"""Created on 5.2.2022"""
 
 
 import random
