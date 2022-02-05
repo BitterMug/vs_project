@@ -1,6 +1,5 @@
 """
-Created on Fri Feb 5.
-@author: Bittermug
+Measure reaction time.
 """
 
 
