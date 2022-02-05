@@ -1,3 +1,5 @@
+"""Introduction tests."""
+
 import unittest
 from reakcniRychlosti import introduction
 
