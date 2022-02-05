@@ -1,6 +1,4 @@
-'''
-Main executable script
-'''
+"Main executable script."
 
 
 import random
@@ -61,7 +59,8 @@ def get_equation(a, b, symbol):
         b (int): Second part of equation.
         symbol (char): Math operation symbol used in equation.
     Returns:
-        equation (string): """
+        equation (string)
+    """
     return str(a) + " " + str(symbol) + " " + str(b)
 
 
@@ -101,6 +100,7 @@ def get_results(results, times):
 
 
 def reakcniRychlosti():
+    """Main function."""
     cycles, results, times, min, max, symbols, message = init()
     print(introduction())
 
