@@ -1,4 +1,4 @@
-""""Get equation tests."""
+"""Get equation tests."""
 
 import unittest
 from reakcniRychlosti import get_equation
