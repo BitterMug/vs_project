@@ -1,3 +1,5 @@
+"""Generate equation tests."""
+
 import unittest
 from reakcniRychlosti import generate_equation
 
