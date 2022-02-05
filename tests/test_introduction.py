@@ -3,6 +3,7 @@ from reakcniRychlosti import introduction
 
 
 class introductionTest(unittest.TestCase):
+    """Test set for function introduction."""
 
     def test_correct_text(self):
         """Test if correct text is displayed."""
