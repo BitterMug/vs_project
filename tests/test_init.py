@@ -3,6 +3,7 @@ from reakcniRychlosti import init
 
 
 class initTest(unittest.TestCase):
+    """Test set for init function."""
 
     def test_correct_values(self):
         """Test if correct values are set."""
