@@ -3,6 +3,7 @@ from reakcniRychlosti import evaluate
 
 
 class evaluateTest(unittest.TestCase):
+    """Test set for function evaluate."""
 
     def test_correct(self):
         """Test if correct values returned."""
