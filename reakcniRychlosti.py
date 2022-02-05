@@ -1,4 +1,7 @@
-"""Created on 5.2.2022"""
+"""
+Created on Fri Feb 5.
+@author: Bittermug
+"""
 
 
 import random
