@@ -1,4 +1,4 @@
-"""Main."""
+"""Main execute."""
 
 
 import random
