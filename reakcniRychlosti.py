@@ -1,4 +1,4 @@
-"""Main executable script."""
+"""Main script."""
 
 
 import random
