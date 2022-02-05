@@ -1,3 +1,5 @@
+"""evaluate tests"""
+
 import unittest
 from reakcniRychlosti import evaluate
 
