@@ -3,6 +3,7 @@ from reakcniRychlosti import get_equation
 
 
 class get_equationTest(unittest.TestCase):
+    """Test set for function get_equation."""
 
     def test_positive(self):
         """Test correct positive equation formating."""
