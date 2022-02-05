@@ -1,6 +1,4 @@
-"""
-Generate equation tests.
-"""
+"""Contain main function."""
 
 
 import random
@@ -96,13 +94,13 @@ def evaluate(a, b, symbol, user_input):
 
 
 def get_results(results, times):
-    """Prints results and times."""
+    """Print results and times."""
     print(results)
     print(times)
 
 
 def reakcniRychlosti():
-    """Main function."""
+    """Execute main function."""
     cycles, results, times, min, max, symbols, message = init()
     print(introduction())
 
