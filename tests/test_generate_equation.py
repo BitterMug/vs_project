@@ -3,6 +3,7 @@ from reakcniRychlosti import generate_equation
 
 
 class generate_equationTest(unittest.TestCase):
+    """Test set for function generate_equation."""
 
     def test_correct_values(self):
         """Test if correct values are generated."""
