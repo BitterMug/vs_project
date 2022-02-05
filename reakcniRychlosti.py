@@ -1,5 +1,5 @@
 """
-Measure reaction time.
+Generate equation tests.
 """
 
 
