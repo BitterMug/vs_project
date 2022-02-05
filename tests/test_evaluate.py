@@ -1,4 +1,4 @@
-"""evaluate tests"""
+"""Evaluate tests."""
 
 import unittest
 from reakcniRychlosti import evaluate
