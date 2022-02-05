@@ -1,3 +1,5 @@
+"""Init tests."""
+
 import unittest
 from reakcniRychlosti import init
 
